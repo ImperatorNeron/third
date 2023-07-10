@@ -8,4 +8,4 @@ class Settings:
 
 
 if __name__ == '__main__':
-    print(Settings(5, 3).add())
+    print(Settings(5, 5).add())
